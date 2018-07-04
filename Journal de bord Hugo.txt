@@ -8,3 +8,7 @@ J'ai créé un repository git et un serveur discord pour notre projet
 Création d'un premier plugin diffusant simplement des messages 
 
 -------------------------------------------------------------------------------------------
+-Création de la Zone de spawn / 120 / 05-07-18
+La zone de spawn a été créée 
+
+-------------------------------------------------------------------------------------------
