@@ -1,6 +1,8 @@
 Journal de bord Hugo 
 
--Cr�ation du discord et du repository git / 67 / 04-07-18
-J'ai cr�� un repository git et un serveur discord pour notre projet ^^
+-Création du discord et du repository git / 67 / 04-07-18
+J'ai créé un repository git et un serveur discord pour notre projet 
 
 -------------------------------------------------------------------------------------------
+-Entrainement à la création de Plugin / 101 / 04-04-18
+Création d'un premier plugin diffusant simplement des messages 
