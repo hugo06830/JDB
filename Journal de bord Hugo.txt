@@ -15,3 +15,4 @@ La zone de spawn a été créée
 -Création du tutoriel git sur le salon discord "git-tutoriel / 5 / 05-07-18
 Le tutoriel pour accèder aux journeaux de bords et en ligne sur discord
 
+-------------------------------------------------------------------------------------------
