@@ -16,3 +16,7 @@ La zone de spawn a été créée
 Le tutoriel pour accèder aux journeaux de bords et en ligne sur discord
 
 -------------------------------------------------------------------------------------------
+-Building des murailles et des tours du chateau / 350 / 06-07-18
+Les murailles et les tours vides sont crées 
+
+-------------------------------------------------------------------------------------------
