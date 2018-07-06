@@ -4,22 +4,27 @@ Journal de bord Hugo
 J'ai créé un repository git et un serveur discord pour notre projet 
 
 -------------------------------------------------------------------------------------------
+
 -Entrainement à la création de Plugin / 101 / 04-04-18
 Création d'un premier plugin diffusant simplement des messages 
 
 -------------------------------------------------------------------------------------------
+
 -Création de la Zone de spawn / 120 / 05-07-18
 La zone de spawn a été créée 
 
 -------------------------------------------------------------------------------------------
+
 -Création du tutoriel git sur le salon discord "git-tutoriel" / 5 / 05-07-18
 Le tutoriel pour accèder aux journeaux de bords et en ligne sur discord
 
 -------------------------------------------------------------------------------------------
+
 -Building des murailles et des tours du chateau / 350 / 06-07-18
 Les murailles et les tours vides sont crées 
 
 -------------------------------------------------------------------------------------------
+
 -Copiage des pattern du spawn sur les 4 faces / 270 / 07-07-18
 Les patterns sont disponibles sur les 4 faces 
 
