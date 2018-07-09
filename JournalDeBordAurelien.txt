@@ -1,11 +1,20 @@
+-Action faite / temps(en mn) / date : 08--07--18
+
+
+_____________________________________________________________________________
 -TerraForming + Construction d'un paterne sur le chateau / 240 / 06-07-18
+
 Début du terraforming et mise en place d'un pattern sur l'ensemble du chateau 
 
-------------------------------------------------------------------------------
-06-07/07/18
-210mn
+______________________________________________________________________________
+-Terraforming / 210mn / 06-07/07/18
 
 terraformation et création de terrain sous terrain, 
 Décoration de l'interieur du spawn, création d'une ambiance, création de trois pilones en pierre, disposition de verdure
 création de cage au centre 
-------------------------------------------------------------------------------
+______________________________________________________________________________
+
+-Création d'une ile flottante / 90mn / 08--07--18
+
+Création du ile flottante, terraforming complet extérieur et intérieur, début des décoratrion intérieur muraux.
+______________________________________________________________________________
