@@ -2,12 +2,12 @@
 
 
 _____________________________________________________________________________
--TerraForming + Construction d'un paterne sur le chateau / 240 / 06-07-18
+-TerraForming + Construction d'un paterne sur le chateau / 240 / 06--07--18
 
 Début du terraforming et mise en place d'un pattern sur l'ensemble du chateau 
 
 ______________________________________________________________________________
--Terraforming / 210mn / 06-07/07/18
+-Terraforming / 210mn / 06--07--18
 
 terraformation et création de terrain sous terrain, 
 Décoration de l'interieur du spawn, création d'une ambiance, création de trois pilones en pierre, disposition de verdure
@@ -18,3 +18,14 @@ ______________________________________________________________________________
 
 Création du ile flottante, terraforming complet extérieur et intérieur, début des décoratrion intérieur muraux.
 ______________________________________________________________________________
+
+- Création d'un easter Egg géant relatif à un jeu / 270mn / 11--07--18
+
+Création d'un personnage modélisé en 3D du jeu Bendy and the INK machine, positionné dans l'eau machoire ouverte main tendu portant un pont, création de l'easter Egg avec adaptation des aléas : personnage arrondie. Préparation du terrain avec grégory, création d'un pont (moitié)
+
+______________________________________________________________________________
+
+-Finition easter egg auré+flo / 180mn / 12--07--18
+
+Finition de l'easter egg relatif ) bendy and the INK machine, terraformation légére du terrain, préparation du easter egg de florent 
+utilisation de balise soit modification de l'installation en redstone. 
