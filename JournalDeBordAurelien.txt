@@ -1,4 +1,4 @@
--Action faite / temps (en mn) / date : jour--mois--année
+-Action faite / temps (en mn) / date : jour--mois--année.
 
 
 _____________________________________________________________________________
