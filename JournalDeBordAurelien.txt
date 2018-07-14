@@ -21,7 +21,9 @@ ______________________________________________________________________________
 
 - Création d'un easter Egg géant relatif à un jeu / 270mn / 11--07--18
 
-Création d'un personnage modélisé en 3D du jeu Bendy and the INK machine, positionné dans l'eau mâchoire ouverte main tendu portant un pont, création de l'easter Egg avec adaptation des aléas : personnage arrondie. Préparation du terrain avec Grégory, création d'un pont (moitié)
+Création d'un personnage modélisé en 3D du jeu Bendy and the INK machine, positionné dans l'eau mâchoire ouverte main tendu 
+portant un pont, création de l'easter Egg avec adaptation des aléas : 
+personnage arrondie. Préparation du terrain avec Grégory, création d'un pont (moitié)
 
 ______________________________________________________________________________
 
