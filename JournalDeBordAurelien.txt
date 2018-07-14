@@ -34,5 +34,7 @@ _______________________________________________________________________________
 
 -Commencement de l'arbre au spawn / 300mn / 13--07--18
 
-Terraformation du tronc de l'arbre, ajustement des feuillages création de racine dont une pour le pont permettant de monter, ajustement du easter egg [Endy and the INK machine] création d’une idée future, mise à jour de l'easter egg relatif au moulain, préparation de la cascade, création d'une idée futur relatif à l'easter egg avec le moulain, terraformations diverses
+Terraformation du tronc de l'arbre, ajustement des feuillages création de racine dont une pour le pont permettant de monter, ajustement du easter egg 
+[Bendy and the INK machine] création d’une idée future, mise à jour de l'easter egg relatif au moulain, 
+préparation de la cascade, création d'une idée futur relatif à l'easter egg avec le moulain, terraformations diverses
 
