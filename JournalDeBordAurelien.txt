@@ -1,31 +1,38 @@
--Action faite / temps(en mn) / date : 08--07--18
+-Action faite / temps (en mn) / date : 08--07--18
 
 
 _____________________________________________________________________________
--TerraForming + Construction d'un paterne sur le chateau / 240 / 06--07--18
+-TerraForming + Construction d'un paterne sur le château / 240 / 06--07--18
 
-Début du terraforming et mise en place d'un pattern sur l'ensemble du chateau 
+Début de terraformions et mise en place d'un pattern sur l'ensemble du château 
 
 ______________________________________________________________________________
 -Terraforming / 210mn / 06--07--18
 
-terraformation et création de terrain sous terrain, 
-Décoration de l'interieur du spawn, création d'une ambiance, création de trois pilones en pierre, disposition de verdure
-création de cage au centre 
+Terraformation et création de terrain sous terrain, 
+Décoration de l'intérieur du spawn, création d'une ambiance, création de trois pilonnes en pierre, disposition de verdure
+Création de cage au centre 
 ______________________________________________________________________________
 
 -Création d'une ile flottante / 90mn / 08--07--18
 
-Création du ile flottante, terraforming complet extérieur et intérieur, début des décoratrion intérieur muraux.
+Création de l’ile flottante, terraforming complet extérieur et intérieur, début des décorations intérieur muraux.
 ______________________________________________________________________________
 
 - Création d'un easter Egg géant relatif à un jeu / 270mn / 11--07--18
 
-Création d'un personnage modélisé en 3D du jeu Bendy and the INK machine, positionné dans l'eau machoire ouverte main tendu portant un pont, création de l'easter Egg avec adaptation des aléas : personnage arrondie. Préparation du terrain avec grégory, création d'un pont (moitié)
+Création d'un personnage modélisé en 3D du jeu Bendy and the INK machine, positionné dans l'eau mâchoire ouverte main tendu portant un pont, création de l'easter Egg avec adaptation des aléas : personnage arrondie. Préparation du terrain avec Grégory, création d'un pont (moitié)
 
 ______________________________________________________________________________
 
 -Finition easter egg auré+flo / 180mn / 12--07--18
 
-Finition de l'easter egg relatif ) bendy and the INK machine, terraformation légére du terrain, préparation du easter egg de florent 
-utilisation de balise soit modification de l'installation en redstone. 
+Finition de l'easter egg relatif) bendy and the INK machine, terraformation légère du terrain, préparation du easter egg de florent 
+Utilisation de balise soit modification de l'installation en redstone. 
+
+_______________________________________________________________________________
+
+-Commencement de l'arbre au spawn / 300mn / 13--07--18
+
+Terraformation du tronc de l'arbre, ajustement des feuillages création de racine dont une pour le pont permettant de monter, ajustement du easter egg [Endy and the INK machine] création d’une idée future, mise à jour de l'easter egg relatif au moulain, préparation de la cascade, création d'une idée futur relatif à l'easter egg avec le moulain, terraformations diverses
+
