@@ -1,8 +1,8 @@
--Action faite / temps (en mn) / date : 08--07--18
+-Action faite / temps (en mn) / date : jour--mois--année
 
 
 _____________________________________________________________________________
--TerraForming + Construction d'un paterne sur le château / 240 / 06--07--18
+-TerraForming + Construction d'un paterne sur le château / 240mn / 06--07--18
 
 Début de terraformions et mise en place d'un pattern sur l'ensemble du château 
 
