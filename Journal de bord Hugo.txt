@@ -1,0 +1,66 @@
+Journal de bord Hugo 
+
+-Création du discord et du repository git / 67 / 04-07-18
+J'ai créé un repository git et un serveur discord pour notre projet 
+
+-------------------------------------------------------------------------------------------
+
+-Entrainement à la création de Plugin / 101 / 04-04-18
+Création d'un premier plugin diffusant simplement des messages 
+
+-------------------------------------------------------------------------------------------
+
+-Création de la Zone de spawn / 120 / 05-07-18
+La zone de spawn a été créée 
+
+-------------------------------------------------------------------------------------------
+
+-Création du tutoriel git sur le salon discord "git-tutoriel" / 5 / 05-07-18
+Le tutoriel pour accèder aux journeaux de bords est en ligne sur discord
+
+-------------------------------------------------------------------------------------------
+
+-Building des murailles et des tours du chateau / 350 / 06-07-18
+Les murailles et les tours vides sont crées 
+
+-------------------------------------------------------------------------------------------
+
+-Copiage des pattern du spawn sur les 4 faces / 270 / 07-07-18
+Les patterns sont disponibles sur les 4 faces 
+
+-------------------------------------------------------------------------------------------
+
+-Début du code de Plugin spawn / 260 / 10-07-18
+La téléportation est instantanée les messages sont Ok!
+
+-------------------------------------------------------------------------------------------
+
+-Formation au hashmap sur java / 180 / 11-07-18
+Les hashmaps sont Ok!
+
+-------------------------------------------------------------------------------------------
+
+-Première version de plugin spawn / 120 / 12-07-18
+Le compteur marche mais la tp fail en permanence
+
+-------------------------------------------------------------------------------------------
+
+-Succesion d'échec avec le plugin spawn / 55 / 13-07-18
+Null
+
+-------------------------------------------------------------------------------------------
+
+-Première version valable du plugin spawn / 139 / 15-07-18
+Le plugin fonctionne mais les op ne peuvent pas se tp instant
+
+------------------------------------------------------------------------------------------
+
+-Plugin spawn v2.0 / 45 / 16-07-18
+Les op peuvent se tp instant 
+
+------------------------------------------------------------------------------------------
+
+Perte de fichier et recherche de résolution des problèmes / 250 / 17-07-18
+-fichier perdu mais retrouvé aprés reste a résoudre le fast-foward error
+
+-----------------------------------------------------------------------------------------
