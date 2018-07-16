@@ -1,0 +1,6 @@
+name: Annonce
+version: 1.0
+author: hugo06830
+main: fr.hugo06830.annonce.Main
+commands:
+  annonce:
