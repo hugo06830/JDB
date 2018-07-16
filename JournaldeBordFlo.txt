@@ -27,3 +27,5 @@
 -Classe vampire création de la salle / 120min / date : 15--07--18
 
 -Création de lester egs et de la classe vampire FINI + terra formation arbre géant / 180min / date : 15--07--18
+
+-Terra formation spawn du chateaux / 120min / date : 16--07--18
