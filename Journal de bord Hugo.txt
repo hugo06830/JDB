@@ -48,7 +48,7 @@ Le compteur marche mais la tp fail en permanence
 -Succesion d'échec avec le plugin spawn / 55 / 13-07-18
 Null
 
-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
 -Première version valable du plugin spawn / 139 / 15-07-18
 Le plugin fonctionne mais les op ne peuvent pas se tp instant
@@ -57,3 +57,10 @@ Le plugin fonctionne mais les op ne peuvent pas se tp instant
 
 -Plugin spawn v2.0 / 45 / 16-07-18
 Les op peuvent se tp instant 
+
+------------------------------------------------------------------------------------------
+
+Perte de fichier et recherche de résolution des problèmes / 250 / 17-07-18
+-fichier perdu mais retrouvé aprés reste a résoudre le fast-foward error
+
+-----------------------------------------------------------------------------------------
