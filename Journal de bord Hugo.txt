@@ -29,3 +29,31 @@ Les murailles et les tours vides sont crées
 Les patterns sont disponibles sur les 4 faces 
 
 -------------------------------------------------------------------------------------------
+
+-Début du code de Plugin spawn / 260 / 10-07-18
+La téléportation est instantanée les messages sont Ok!
+
+-------------------------------------------------------------------------------------------
+
+-Formation au hashmap sur java / 180 / 11-07-18
+Les hashmaps sont Ok!
+
+-------------------------------------------------------------------------------------------
+
+-Première version de plugin spawn / 120 / 12-07-18
+Le compteur marche mais la tp fail en permanence
+
+-------------------------------------------------------------------------------------------
+
+-Succesion d'échec avec le plugin spawn / 55 / 13-07-18
+Null
+
+------------------------------------------------------------------------------------------
+
+-Première version valable du plugin spawn / 139 / 15-07-18
+Le plugin fonctionne mais les op ne peuvent pas se tp instant
+
+------------------------------------------------------------------------------------------
+
+-Plugin spawn v2.0 / 45 / 16-07-18
+Les op peuvent se tp instant 
