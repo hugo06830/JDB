@@ -1,0 +1,7 @@
+name: Poc-hologram
+author: hugo06830
+version: 1.0
+main: fr.hugo06830.hologram.Main
+commands:
+  hologram:
+    permission: hologram.use
