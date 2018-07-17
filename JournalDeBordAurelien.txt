@@ -4,14 +4,14 @@
 _____________________________________________________________________________
 -TerraForming + Construction d'un paterne sur le château / 240mn / 06--07--18
 
-Début de terraformions et mise en place d'un pattern sur l'ensemble du château 
+Début de terraformation et mise en place d'un pattern sur l'ensemble du château. 
 
 ______________________________________________________________________________
 -Terraforming / 210mn / 06--07--18
 
 Terraformation et création de terrain sous terrain, 
 Décoration de l'intérieur du spawn, création d'une ambiance, création de trois pilonnes en pierre, disposition de verdure
-Création de cage au centre 
+Création de cage au centre.
 ______________________________________________________________________________
 
 -Création d'une ile flottante / 90mn / 08--07--18
@@ -23,7 +23,7 @@ ______________________________________________________________________________
 
 Création d'un personnage modélisé en 3D du jeu Bendy and the INK machine, positionné dans l'eau mâchoire ouverte main tendu 
 portant un pont, création de l'easter Egg avec adaptation des aléas : 
-personnage arrondie. Préparation du terrain avec Grégory, création d'un pont (moitié)
+personnage arrondie. Préparation du terrain avec Grégory, création d'un pont (moitié).
 
 ______________________________________________________________________________
 
@@ -38,5 +38,12 @@ _______________________________________________________________________________
 
 Terraformation du tronc de l'arbre, ajustement des feuillages création de racine dont une pour le pont permettant de monter, ajustement du easter egg 
 [Bendy and the INK machine] création d’une idée future, mise à jour de l'easter egg relatif au moulain, 
-préparation de la cascade, création d'une idée futur relatif à l'easter egg avec le moulain, terraformations diverses
+préparation de la cascade, création d'une idée futur relatif à l'easter egg avec le moulain, terraformations diverses.
+_________________________________________________________________________________
 
+-Finition décoration Classe vampire + Faucheur / 240 / 16--07--18
+
+Création de salle permettant l'accueil des joueurs souhaitant la classe vampire, décoration d'un manoir, 
+décoration d'une salle de repose avec cercueil et fontaine de sang, 
+création d'une salle pour la classe faucheur, décoration avec jeu de lumière, création d'une main et d'un crane en 3D, 
+utilisation temporaire de commande block.
