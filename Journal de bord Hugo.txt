@@ -60,7 +60,17 @@ Les op peuvent se tp instant
 
 ------------------------------------------------------------------------------------------
 
-Perte de fichier et recherche de résolution des problèmes / 250 / 17-07-18
--fichier perdu mais retrouvé aprés reste a résoudre le fast-foward error
+-Perte de fichier et recherche de résolution des problèmes / 250 / 17-07-18
+fichier perdu mais retrouvé aprés reste a résoudre le fast-foward error
 
------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+-Fix du non-fast foward error/120/18-07-18
+Création d'une nouvelle branche pour push sans problème
+
+------------------------------------------------------------------------------------------
+
+-Amélioration du hologram/125/19-07-18
+Le /delhologram permet de supprimer le dernier hologram placé
+
+-------------------------------------------------------------------------------------------
