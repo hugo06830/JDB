@@ -43,3 +43,7 @@
 -terra formation spawn (autour de l'arbre géant) / 120min / date : 20--07--18
 
 -terra formation spawn (autour de l'arbre géant) / 120min / date : 20--07--18
+
+-terra formation ville / 120min / date : 22--07--18
+
+-terra formation arène / 120min / date : 23--07--18
