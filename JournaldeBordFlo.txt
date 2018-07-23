@@ -46,4 +46,4 @@
 
 -terra formation ville / 120min / date : 22--07--18
 
--terra formation arène / 120min / date : 23--07--18
+-terra formation arène / 180min / date : 23--07--18
