@@ -47,3 +47,9 @@ Création de salle permettant l'accueil des joueurs souhaitant la classe vampire
 décoration d'une salle de repose avec cercueil et fontaine de sang, 
 création d'une salle pour la classe faucheur, décoration avec jeu de lumière, création d'une main et d'un crane en 3D, 
 utilisation temporaire de commande block.
+
+_________________________________________________________________________________
+
+- Finition du spawn / 120mn / 22--07--18
+
+Finition des murs intérieur, des toits muraux, des décoration intérieur, et petite aide à micha 
