@@ -53,3 +53,9 @@ ________________________________________________________________________________
 - Finition du spawn / 120mn / 22--07--18
 
 Finition des murs intérieur, des toits muraux, des décoration intérieur, et petite aide à micha 
+
+_________________________________________________________________________________
+
+- Création de l'horloge de NOX / 180 / 24--07--18
+
+Création d'une structure, avec brats méchanique, horloge + cadran géant, et petite aide micha 
