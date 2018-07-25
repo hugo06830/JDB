@@ -49,3 +49,5 @@
 -terra formation arène / 180min / date : 23--07--18
 
 -terra formation bank et déco ville / 120min / date : 23--07--18
+
+-décoration du spawn et création batiment + création arène / 300min / date : 25--07--18
