@@ -53,3 +53,6 @@
 -décoration du spawn et création batiment + création arène / 300min / date : 25--07--18
 
 -création de l'arene / 60min / date : 26--07--18
+
+-création de l'arene / 120min / date : 27--07--18
+
