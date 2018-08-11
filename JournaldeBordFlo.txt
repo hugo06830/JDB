@@ -66,3 +66,4 @@
 
 -terra formation spawn + construction tour de garde au port + déco / 320min / date : 10--08--18
 
+-terra formation spawn / 100min / date : 11--08--18
